@@ -12,7 +12,6 @@ Cloud Bootcamp 동안 우리 팀이 수행한 온프레미스 프로젝트에서
 
 🖥️ [On-Premise](https://github.com/sch8536/PROmet-On-premise) - 온프레미스 버전
 
-https://github.com/sch8536/PROmet-On-premise
 ## 💡 목표
 
 이번 AWS 클라우드 마이그레이션 프로젝트의 목표는 늘어난 트래픽과 공공 수요를 해결하는 것이었습니다. PROmet은 클라우드 마이그레이션 계획, 구현 및 지속적인 관리 서비스를 제공하는 PROcloud와 파트너 관계를 맺었습니다. PROcloud는 클라우드로 마이그레이션하여 PROmet의 웹 서비스를 지원했습니다. PROmet의 확장성, 안정성을 개선하고 비용을 절감했습니다.
