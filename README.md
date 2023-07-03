@@ -6,11 +6,11 @@ Cloud Bootcamp 동안 우리 팀이 수행한 온프레미스 프로젝트에서
 
 > 기술 문서 및 프리젠테이션 pdf 파일이 포함되어 있습니다.
 
-🌐 [PROmet](https://github.com/Waji-97/PROmet-Website) - Django 프레임워크를 사용하여 만든 PROmet 웹사이트
+🌐 [PROmet](https://github.com/sch8536/PROmet-Website) - Django 프레임워크를 사용하여 만든 PROmet 웹사이트
 
-👨‍💻 [Infrastructure as Code](https://github.com/Waji-97/AWS-3-tier-Terraform) -  AWS 인프라 Terraform 코드 repository
+👨‍💻 [Infrastructure as Code](https://github.com/sch8536/AWS-3-tier-Terraform) -  AWS 인프라 Terraform 코드 repository
 
-🖥️ [On-Premise](https://github.com/Waji-97/PROmet-On-Premise-Project) - 온프레미스 버전
+🖥️ [On-Premise](https://github.com/sch8536/PROmet-On-Premise-Project) - 온프레미스 버전
 
 
 ## 💡 목표
